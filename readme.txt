@@ -1,3 +1,2 @@
 Hello!
-Now again
 Now
